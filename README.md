@@ -2,4 +2,4 @@
 
 💪 Fitness website project.
 
-🔗 Live Demo: https://spoorthi1503.github.io/FUTURE_FS_03/
+🔗 Live Demo:"https://sspoorthigowda179-ai.github.io/FUTUREEE_FS_03-main/"
